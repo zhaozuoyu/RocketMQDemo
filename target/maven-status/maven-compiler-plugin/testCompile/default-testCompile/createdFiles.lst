@@ -1,0 +1,5 @@
+cn\zzy\rockectmq\util\test\Listener.class
+cn\zzy\rockectmq\util\test\ConsumerTest.class
+cn\zzy\rockectmq\util\test\ProducerTest.class
+cn\zzy\rockectmq\util\test\Consumer.class
+cn\zzy\rockectmq\util\test\Producer.class
